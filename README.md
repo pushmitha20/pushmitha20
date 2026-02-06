@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7F00FF,00D4FF&height=250&section=header&text=Pushmitha&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=55&descAlign=50"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7F00FF,00D4FF&height=250&section=header&text=Pushmitha&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20and%20Spring%20Boot&descAlignY=55&descAlign=50"
     alt="Pushmitha Banner" 
     width="100%"
   />
@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Backend;React+Frontend+Specialist;UI%2FUX+Enthusiast;Build+Break+Learn+Repeat"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+and+Spring+Boot+Backend;React+Frontend+Specialist;UI%2FUX+Enthusiast;Build+Break+Learn+Repeat"
       alt="Typing SVG" 
     />
   </a>
@@ -27,21 +27,23 @@
 
 ---
 
-### ���‍💻 About Me
+### 👩‍💻 About Me
 
 <table>
   <tr>
     <td valign="top" width="60%">
       <ul>
-        <li>🌱 Currently learning <strong>Advanced Spring Security & Next.js</strong></li>
+        <li>🌱 Currently learning <strong>Advanced Spring Security and Next.js</strong></li>
         <li>🎯 Building <strong>Planora</strong> – A Project Management System</li>
-        <li>🎨 Passionate about <strong>UI/UX Design in Figma & Photoshop</strong></li>
-        <li>💬 Ask me about <strong>Java, OOP, Spring Boot & Web Development</strong></li>
+        <li>🎨 Passionate about <strong>UI/UX Design in Figma and Photoshop</strong></li>
+        <li>💬 Ask me about <strong>Java, OOP, Spring Boot and Web Development</strong></li>
         <li>⚡ Fun fact: <strong>I code best while combining logical backend with beautiful frontend designs</strong></li>
       </ul>
     </td>
     <td width="40%">
-      <img align="right" src="https://raw.githubusercontent.com/pushmitha20/pushmitha20/main/assets/me.png" alt="Pushmitha" width="100%" style="border-radius: 10px;"/>
+      <div align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="100%"/>
+      </div>
     </td>
   </tr>
 </table>
@@ -59,7 +61,7 @@
     <td align="center" width="25%"><strong>Languages</strong></td>
     <td align="center" width="25%"><strong>Frontend</strong></td>
     <td align="center" width="25%"><strong>Backend</strong></td>
-    <td align="center" width="25%"><strong>Tools & Design</strong></td>
+    <td align="center" width="25%"><strong>Tools and Design</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -86,22 +88,22 @@
     <td width="33%" align="center">
       <strong>📊 Planora</strong> <br>
       <em>Project Management System</em> <br><br>
-      🔧 Agile Scrum • Kanban<br>
-      💻 Spring Boot • React<br>
-      🗄️ MySQL • RESTful APIs
+      🔧 Agile Scrum and Kanban<br>
+      💻 Spring Boot and React<br>
+      🗄️ MySQL and RESTful APIs
     </td>
     <td width="33%" align="center">
       <strong>☕ Cafe Website</strong> <br>
       <em>Responsive UI</em> <br><br>
-      🎨 HTML • CSS • JavaScript<br>
-      ✨ Animations • Modern Design<br>
+      🎨 HTML, CSS and JavaScript<br>
+      ✨ Animations and Modern Design<br>
       📱 Mobile Responsive
     </td>
     <td width="33%" align="center">
       <strong>🛒 React Cart</strong> <br>
       <em>E-commerce Logic</em> <br><br>
       🔄 State Management<br>
-      🧮 Calculations & Filters<br>
+      🧮 Calculations and Filters<br>
       🎯 UI Components
     </td>
   </tr>
