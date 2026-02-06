@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Pushmitha&fontSize=70&animation=fadeIn&fontAlignY=35&desc=IT%20Undergraduate%20%26%20Developer&descAlignY=55&descAlign=50&revalid=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Pushmitha&fontSize=70&animation=fadeIn&fontAlignY=38&desc=IT%20Undergraduate%20%26%20Developer&descAlignY=55&descAlign=50&theme=tokyonight&revalid=2" alt="Pushmitha Banner" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Backend;React+Frontend+Developer;UI%2FUX+Enthusiast+🎨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Backend;React+Frontend+Developer;UI%2FUX+Enthusiast+🎨" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👩‍💻 About Me
 
 <table>
   <tr>
@@ -32,7 +32,7 @@
       </ul>
     </td>
     <td width="40%">
-      <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="100%"/>
+      <img align="right" src="https://i.pinimg.com/originals/3d/8e/a7/3d8ea7788000078650007865.gif" alt="Girl Coding Gif" width="100%"/>
     </td>
   </tr>
 </table>
@@ -75,7 +75,7 @@
 
 ### 📈 Monthly Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pushmitha20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pushmitha20&bg_color=0D1117&color=A970FF&line=A970FF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -90,5 +90,5 @@
 
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=pushmitha20&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=pushmitha20&label=Profile%20Views&color=A970FF&style=flat-square" alt="views" />
 </div>
