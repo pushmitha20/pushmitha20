@@ -1,14 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Pushmitha%20👋&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Pushmitha&fontSize=70&animation=fadeIn&fontAlignY=35&desc=IT%20Undergraduate%20%26%20Developer&descAlignY=55&descAlign=50"/>
+</div>
 
-  <p align="center">
-    <strong>IT Undergraduate | Full-Stack Enthusiast | UI/UX Hobbyist</strong>
-  </p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Backend;React+Frontend+Developer;UI%2FUX+Enthusiast+🎨" alt="Typing SVG" />
+  </a>
+</div>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:YOURMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://pushmitha20.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<div align="center">
+  <p>
+    <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:YOURMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://pushmitha20.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   </p>
 </div>
 
@@ -16,72 +20,75 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **1st-year IT Undergraduate** dedicated to building scalable web applications. Currently, I'm bridging the gap between sleek Frontend interfaces and robust Backend logic.
-
-- 🛠️ **Current Focus:** Masterging the **Spring Boot** ecosystem & Deepening **React** hooks.
-- 🎨 **Design:** I believe great code should look good; I use **Canva** & **Photoshop** for UI prototyping.
-- 🎯 **Goal:** To develop an end-to-end **IoT-based Project Management System**.
-- ⚡ **Fun Fact:** I'm a firm believer in the "Build. Break. Learn. Repeat." cycle.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="25%"><strong>Frontend</strong></td>
-    <td align="center" width="25%"><strong>Backend</strong></td>
-    <td align="center" width="25%"><strong>Design & Tools</strong></td>
-    <td align="center" width="25%"><strong>Design Patterns</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+    <td valign="top" width="60%">
+      <ul>
+        <li>🌱 I’m currently building systems with <strong>Spring Boot & React</strong></li>
+        <li>🎨 I enjoy designing interfaces with <strong>Canva & Photoshop</strong></li>
+        <li>🔭 Working on: <strong>Planora (Project Management System)</strong></li>
+        <li>💬 Ask me about <strong>Java, OOP, and Web Development</strong></li>
+        <li>⚡ Fun fact: <strong>“Build. Break. Learn. Repeat.”</strong></li>
+      </ul>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,spring,mysql,postman" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma,ps,git,github,vscode" />
-    </td>
-    <td align="center">
-      Agile/Scrum<br>UML Modeling<br>OOP
+    <td width="40%">
+      <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="100%"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📂 Featured Projects
+### 🛠️ Technical Stack
 
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[Planora](https://github.com/pushmitha20/Planora)** | `React` `Spring Boot` `MySQL` | Agile/Scrum management tool featuring Kanban boards and real-time dashboards. |
-| **[Cafe Elite](https://github.com/pushmitha20/Cafe-Site)** | `HTML` `CSS` `JS` | A fully responsive restaurant site with interactive menus and Google Maps integration. |
-| **[CartSystem](https://github.com/pushmitha20/React-Cart)** | `React` `Context API` | Dynamic shopping cart with real-time price calculation and state management. |
+<table align="center">
+  <tr>
+    <td align="center" width="20%"><strong>Languages</strong></td>
+    <td align="center" width="20%"><strong>Frontend</strong></td>
+    <td align="center" width="20%"><strong>Backend</strong></td>
+    <td align="center" width="20%"><strong>Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Languages"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,ps" alt="Frontend"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,postman" alt="Backend"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Tools"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📈 GitHub Activities
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pushmitha20&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pushmitha20&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pushmitha20&theme=tokyonight&no-frame=true&row=1" />
-</p>
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/pushmitha20/pushmitha20/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
 ---
 
-### 🗺️ Learning Roadmap
+### 📈 Monthly Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pushmitha20&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+</div>
 
-- [x] Responsive Web Design (HTML/CSS)
-- [x] Modern JavaScript (ES6+)
-- [ ] **Next Up:** Spring Security & JWT Authentication
-- [ ] **Long Term:** Microservices Architecture & AWS Deployment
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it." />
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=pushmitha20&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</a>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=pushmitha20&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
 </div>
