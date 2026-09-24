@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Pushmitha Vigneswaran personal engineering system map</title>
+  <desc id="desc">A warm editorial architecture map connecting Pushmitha's Information Technology degree at the University of Moratuwa to three real projects: Fixflow, a Next.js portfolio, and a React plus Spring Boot e-commerce application, ending with an open-to-internships destination.</desc>
+
+  <defs>
+    <marker id="arrow-lavender" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0L8 4L0 8Z" fill="#6C63B8"/>
+    </marker>
+    <marker id="arrow-sage" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0L8 4L0 8Z" fill="#4E7D66"/>
+    </marker>
+    <marker id="arrow-coral" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0L8 4L0 8Z" fill="#D98268"/>
+    </marker>
+    <clipPath id="frame">
+      <rect x="2" y="2" width="1596" height="596" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1600" height="600" fill="#FBF8F2"/>
+
+    <!-- Personal origin -->
+    <rect x="32" y="32" width="334" height="536" rx="20" fill="#FFFDF9" stroke="#DED8CE" stroke-width="2"/>
+    <rect x="32" y="32" width="10" height="536" rx="5" fill="#6C63B8"/>
+
+    <g transform="translate(72 72)">
+      <rect width="74" height="74" rx="18" fill="#1E2A3A"/>
+      <text x="37" y="48" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="750" fill="#FFFDF9">PV</text>
+      <circle cx="62" cy="12" r="5" fill="#F4C0AE"/>
+    </g>
+
+    <g font-family="Inter, Arial, sans-serif" fill="#1E2A3A">
+      <text x="72" y="190" font-size="35" font-weight="760">PUSHMITHA</text>
+      <text x="72" y="230" font-size="35" font-weight="760">VIGNESWARAN</text>
+      <text x="72" y="272" font-size="20" font-weight="650" fill="#6C63B8" letter-spacing="1.5">INFORMATION</text>
+      <text x="72" y="300" font-size="20" font-weight="650" fill="#6C63B8" letter-spacing="1.5">TECHNOLOGY</text>
+
+      <text x="72" y="344" font-size="25" font-weight="700">BSc (Hons)</text>
+      <text x="72" y="376" font-size="22" fill="#667080">University of Moratuwa</text>
+
+      <line x1="72" y1="410" x2="326" y2="410" stroke="#DED8CE" stroke-width="2"/>
+
+      <text x="72" y="447" font-size="18" font-weight="700" fill="#667080" letter-spacing="2">ENGINEERING FOCUS</text>
+      <rect x="72" y="466" width="116" height="37" rx="18.5" fill="#DDD8FF"/>
+      <text x="130" y="491" text-anchor="middle" font-size="18" font-weight="700" fill="#514A98">FULL-STACK</text>
+      <rect x="198" y="466" width="112" height="37" rx="18.5" fill="#D7E8DC"/>
+      <text x="254" y="491" text-anchor="middle" font-size="18" font-weight="700" fill="#3F6A56">BACKEND</text>
+      <text x="72" y="538" font-size="18" fill="#667080">Colombo, Sri Lanka</text>
+    </g>
+
+    <!-- Central engineering map -->
+    <rect x="390" y="32" width="826" height="536" rx="20" fill="#FFFDF9" stroke="#DED8CE" stroke-width="2"/>
+
+    <g font-family="Inter, Arial, sans-serif">
+      <text x="426" y="76" font-size="18" font-weight="750" letter-spacing="2.5" fill="#667080">PERSONAL ENGINEERING SYSTEM</text>
+      <text x="426" y="108" font-size="25" font-weight="720" fill="#1E2A3A">Three projects. One interface-to-infrastructure practice.</text>
+    </g>
+
+    <!-- Capability layer headings -->
+    <g font-family="IBM Plex Mono, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="1.2" fill="#667080">
+      <text x="578" y="142" text-anchor="middle">INTERFACE</text>
+      <text x="754" y="142" text-anchor="middle">APIs + SERVICES</text>
+      <text x="958" y="142" text-anchor="middle">MESSAGING + DATA</text>
+      <text x="1133" y="142" text-anchor="middle">TEST + DELIVERY</text>
+    </g>
+    <line x1="426" y1="154" x2="1180" y2="154" stroke="#DED8CE" stroke-width="2"/>
+    <line x1="650" y1="132" x2="650" y2="536" stroke="#EEE9E1" stroke-width="2"/>
+    <line x1="857" y1="132" x2="857" y2="536" stroke="#EEE9E1" stroke-width="2"/>
+    <line x1="1058" y1="132" x2="1058" y2="536" stroke="#EEE9E1" stroke-width="2"/>
+
+    <!-- FIXFLOW lane -->
+    <rect x="414" y="170" width="778" height="154" rx="16" fill="#F8F6FF" stroke="#D8D2F5" stroke-width="2"/>
+    <rect x="414" y="170" width="9" height="154" rx="4.5" fill="#6C63B8"/>
+    <g font-family="Inter, Arial, sans-serif">
+      <text x="448" y="207" font-size="28" font-weight="780" fill="#1E2A3A">FIXFLOW</text>
+      <text x="448" y="234" font-size="17" font-weight="600" fill="#667080">maintenance operations · service architecture</text>
+    </g>
+
+    <!-- Fixflow nodes and icons -->
+    <g font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#1E2A3A">
+      <g transform="translate(540 258)">
+        <rect x="-48" y="-18" width="96" height="46" rx="9" fill="#FFFDF9" stroke="#6C63B8" stroke-width="2"/>
+        <rect x="-35" y="-7" width="70" height="22" rx="3" fill="none" stroke="#6C63B8" stroke-width="2"/>
+        <line x1="-14" y1="21" x2="14" y2="21" stroke="#6C63B8" stroke-width="2"/>
+        <text x="0" y="52" text-anchor="middle">React / TS</text>
+      </g>
+      <g transform="translate(704 258)">
+        <polygon points="0,-20 42,5 0,30 -42,5" fill="#FFFDF9" stroke="#6C63B8" stroke-width="2"/>
+        <path d="M-15 5H15M7-3L15 5L7 13" fill="none" stroke="#6C63B8" stroke-width="2"/>
+        <text x="0" y="52" text-anchor="middle">API Gateway</text>
+      </g>
+      <g transform="translate(858 258)">
+        <rect x="-58" y="-22" width="52" height="34" rx="7" fill="#FFFDF9" stroke="#6C63B8" stroke-width="2"/>
+        <rect x="6" y="-8" width="52" height="34" rx="7" fill="#FFFDF9" stroke="#6C63B8" stroke-width="2"/>
+        <circle cx="-43" cy="-5" r="3" fill="#D98268"/>
+        <circle cx="21" cy="9" r="3" fill="#4E7D66"/>
+        <text x="0" y="52" text-anchor="middle">Python / .NET</text>
+      </g>
+      <g transform="translate(1015 258)">
+        <rect x="-58" y="-18" width="50" height="9" rx="4.5" fill="#6C63B8"/>
+        <rect x="-58" y="-3" width="50" height="9" rx="4.5" fill="#8C85CF"/>
+        <rect x="-58" y="12" width="50" height="9" rx="4.5" fill="#ACA7DF"/>
+        <ellipse cx="35" cy="-11" rx="27" ry="10" fill="#FFFDF9" stroke="#6C63B8" stroke-width="2"/>
+        <path d="M8-11V18C8 24 20 28 35 28S62 24 62 18V-11" fill="#FFFDF9" stroke="#6C63B8" stroke-width="2"/>
+        <text x="0" y="52" text-anchor="middle">Kafka + SQL</text>
+      </g>
+      <g transform="translate(1134 258)">
+        <circle cx="0" cy="3" r="27" fill="#FFFDF9" stroke="#6C63B8" stroke-width="2"/>
+        <path d="M-13 3L-3 13L15-9" fill="none" stroke="#4E7D66" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="0" y="52" text-anchor="middle">Tests</text>
+      </g>
+    </g>
+
+    <g fill="none" stroke="#6C63B8" stroke-width="2.5" marker-end="url(#arrow-lavender)">
+      <line x1="600" y1="263" x2="648" y2="263"/>
+      <line x1="758" y1="263" x2="790" y2="263"/>
+      <line x1="928" y1="263" x2="948" y2="263"/>
+      <line x1="1080" y1="263" x2="1095" y2="263"/>
+    </g>
+
+    <!-- PORTFOLIO lane -->
+    <rect x="414" y="338" width="778" height="91" rx="16" fill="#F3F8F4" stroke="#CFE1D4" stroke-width="2"/>
+    <rect x="414" y="338" width="9" height="91" rx="4.5" fill="#4E7D66"/>
+    <g font-family="Inter, Arial, sans-serif" fill="#1E2A3A">
+      <text x="448" y="375" font-size="26" font-weight="780">PORTFOLIO</text>
+      <text x="448" y="402" font-size="17" font-weight="600" fill="#667080">interactive portfolio</text>
+      <text x="680" y="377" font-size="21" font-weight="700">Next.js / TypeScript</text>
+      <text x="916" y="377" font-size="21" font-weight="700">Accessible UI</text>
+      <text x="1104" y="377" font-size="21" font-weight="700">Vercel</text>
+      <text x="680" y="404" font-size="16" fill="#667080">responsive components</text>
+      <text x="916" y="404" font-size="16" fill="#667080">reduced motion</text>
+      <text x="1104" y="404" font-size="16" fill="#667080">deployment</text>
+    </g>
+    <g fill="none" stroke="#4E7D66" stroke-width="2.5" marker-end="url(#arrow-sage)">
+      <line x1="848" y1="382" x2="886" y2="382"/>
+      <line x1="1040" y1="382" x2="1074" y2="382"/>
+    </g>
+
+    <!-- E-COMMERCE lane -->
+    <rect x="414" y="443" width="778" height="91" rx="16" fill="#FFF5F1" stroke="#EDC8BA" stroke-width="2"/>
+    <rect x="414" y="443" width="9" height="91" rx="4.5" fill="#D98268"/>
+    <g font-family="Inter, Arial, sans-serif" fill="#1E2A3A">
+      <text x="448" y="480" font-size="26" font-weight="780">E-COMMERCE</text>
+      <text x="448" y="507" font-size="17" font-weight="600" fill="#667080">full-stack learning project</text>
+      <text x="680" y="482" font-size="21" font-weight="700">React</text>
+      <text x="830" y="482" font-size="21" font-weight="700">Spring Boot REST</text>
+      <text x="1093" y="482" font-size="21" font-weight="700">H2</text>
+      <text x="680" y="509" font-size="16" fill="#667080">interface</text>
+      <text x="830" y="509" font-size="16" fill="#667080">Java API</text>
+      <text x="1093" y="509" font-size="16" fill="#667080">persistence</text>
+    </g>
+    <g fill="none" stroke="#D98268" stroke-width="2.5" marker-end="url(#arrow-coral)">
+      <line x1="755" y1="487" x2="802" y2="487"/>
+      <line x1="1025" y1="487" x2="1064" y2="487"/>
+    </g>
+
+    <!-- Professional destination -->
+    <rect x="1240" y="32" width="328" height="536" rx="20" fill="#1E2A3A"/>
+    <g font-family="Inter, Arial, sans-serif">
+      <text x="1280" y="78" font-size="17" font-weight="750" letter-spacing="2.4" fill="#F4C0AE">PROFESSIONAL DIRECTION</text>
+      <text x="1280" y="142" font-size="35" font-weight="780" fill="#FFFDF9">FULL-STACK</text>
+      <text x="1280" y="184" font-size="35" font-weight="780" fill="#FFFDF9">+ BACKEND</text>
+
+      <line x1="1280" y1="222" x2="1528" y2="222" stroke="#4A5668" stroke-width="2"/>
+
+      <text x="1280" y="270" font-size="18" font-weight="700" letter-spacing="1.8" fill="#D7E8DC">CURRENTLY OPEN TO</text>
+      <text x="1280" y="312" font-size="27" font-weight="760" fill="#FFFDF9">SOFTWARE</text>
+      <text x="1280" y="347" font-size="27" font-weight="760" fill="#FFFDF9">ENGINEERING</text>
+      <text x="1280" y="382" font-size="27" font-weight="760" fill="#FFFDF9">INTERNSHIPS</text>
+
+      <rect x="1280" y="426" width="248" height="85" rx="14" fill="#2A3749" stroke="#4A5668" stroke-width="2"/>
+      <text x="1302" y="459" font-size="16" font-weight="700" letter-spacing="1.5" fill="#F4C0AE">ENGINEERING GOAL</text>
+      <text x="1302" y="489" font-size="19" font-weight="650" fill="#FFFDF9">Build reliable, useful</text>
+      <text x="1302" y="513" font-size="19" font-weight="650" fill="#FFFDF9">digital products.</text>
+
+      <circle cx="1290" cy="545" r="5" fill="#D98268"/>
+      <text x="1305" y="551" font-size="16" font-weight="650" fill="#D7E8DC">AVAILABLE TO CONNECT</text>
+    </g>
+  </g>
+
+  <rect x="2" y="2" width="1596" height="596" rx="28" fill="none" stroke="#DED8CE" stroke-width="4"/>
+</svg>

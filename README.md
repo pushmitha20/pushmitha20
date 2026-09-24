@@ -1,9 +1,12 @@
 <p align="center">
-  <img
-    src="./assets/profile-hero-light.svg"
-    width="100%"
-    alt="Abstract light systems map representing Pushmitha Vigneswaran's interface-to-infrastructure engineering approach"
-  />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile-hero-architecture-mobile.svg" />
+    <img
+      src="./assets/profile-hero-architecture-v2.svg"
+      width="100%"
+      alt="Pushmitha Vigneswaran's engineering map connecting Information Technology studies at the University of Moratuwa with Fixflow, a Next.js portfolio, a React and Spring Boot application, and a software engineering internship goal"
+    />
+  </picture>
 </p>
 
 <div align="center">
@@ -20,9 +23,7 @@ I am an Information Technology undergraduate at the **University of Moratuwa**, 
 
 </div>
 
-<p align="center">
-  <img src="./assets/system-route-divider.svg" width="100%" alt="" />
-</p>
+---
 
 ## About me
 
@@ -61,9 +62,7 @@ An e-commerce application connecting a React interface to a Spring Boot backend 
 - Implements core product CRUD flows across the frontend and backend.
 - Demonstrates API integration and persistent application data.
 
-<p align="center">
-  <img src="./assets/system-route-divider.svg" width="100%" alt="" />
-</p>
+---
 
 ## Engineering toolkit
 
@@ -89,9 +88,7 @@ An e-commerce application connecting a React interface to a Spring Boot backend 
 - Building stronger Spring Security, testing, system-design, and deployment skills.
 - Contributing to collaborative codebases through clear issues, pull requests, reviews, and documentation.
 
-<p align="center">
-  <img src="./assets/system-route-divider.svg" width="100%" alt="" />
-</p>
+---
 
 <div align="center">
 
