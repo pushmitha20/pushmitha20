@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Pushmitha Vigneswaran — interface to infrastructure</title>
+  <desc id="desc">A luminous systems map with routed paths moving from idea to system to shipped software, resolving into a PV monogram.</desc>
+
+  <defs>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbfcff"/>
+      <stop offset="0.48" stop-color="#f8f9fc"/>
+      <stop offset="1" stop-color="#f4fbf9"/>
+    </linearGradient>
+    <radialGradient id="violet-field" cx="0" cy="0" r="1" gradientTransform="translate(240 34) rotate(32) scale(650 330)">
+      <stop stop-color="#dcdcff" stop-opacity="0.82"/>
+      <stop offset="0.58" stop-color="#e9e8ff" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#f8f9fc" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="mint-field" cx="0" cy="0" r="1" gradientTransform="translate(1360 530) rotate(-135) scale(610 330)">
+      <stop stop-color="#cfeee8" stop-opacity="0.82"/>
+      <stop offset="0.62" stop-color="#e3f6f2" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#f8f9fc" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="route" x1="150" y1="0" x2="1100" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7272e8"/>
+      <stop offset="0.52" stop-color="#8298e8"/>
+      <stop offset="1" stop-color="#4ebaaa"/>
+    </linearGradient>
+    <linearGradient id="monogram" x1="1110" y1="130" x2="1490" y2="410" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#242b49"/>
+      <stop offset="0.5" stop-color="#6265cf"/>
+      <stop offset="1" stop-color="#3e9f92"/>
+    </linearGradient>
+    <pattern id="micro-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#b9c1d0" stroke-width="1" opacity="0.22"/>
+    </pattern>
+    <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#52607a" flood-opacity="0.12"/>
+    </filter>
+    <filter id="node-shadow" x="-100%" y="-100%" width="300%" height="300%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#5c6a82" flood-opacity="0.16"/>
+    </filter>
+    <clipPath id="frame-clip">
+      <rect x="1" y="1" width="1598" height="518" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame-clip)">
+    <rect width="1600" height="520" fill="url(#canvas)"/>
+    <rect width="1600" height="520" fill="url(#violet-field)"/>
+    <rect width="1600" height="520" fill="url(#mint-field)"/>
+    <rect x="74" y="58" width="1452" height="404" fill="url(#micro-grid)" opacity="0.56"/>
+
+    <path d="M-90 390L280 22H540L164 398Z" fill="#ffffff" opacity="0.34"/>
+    <path d="M1234 -60L1628 22V334L1330 224Z" fill="#ffffff" opacity="0.48"/>
+    <path d="M1024 520L1278 276L1640 454V566Z" fill="#bfe8e0" opacity="0.16"/>
+
+    <g opacity="0.75">
+      <path d="M88 88H260" stroke="#aeb7c8" stroke-width="1"/>
+      <path d="M88 88V158" stroke="#aeb7c8" stroke-width="1"/>
+      <circle cx="88" cy="88" r="3" fill="#7272e8"/>
+      <path d="M1512 430H1360" stroke="#aeb7c8" stroke-width="1"/>
+      <path d="M1512 430V360" stroke="#aeb7c8" stroke-width="1"/>
+      <circle cx="1512" cy="430" r="3" fill="#4ebaaa"/>
+    </g>
+
+    <g font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="2.8" fill="#647087">
+      <text x="88" y="126">SYSTEMS / 01</text>
+      <text x="88" y="148" font-size="10" letter-spacing="1.8" fill="#8994a7">INTERFACE → INFRASTRUCTURE</text>
+      <text x="1322" y="454" font-size="10" letter-spacing="2.1">COLOMBO · SRI LANKA</text>
+    </g>
+
+    <path d="M126 324H298C326 324 342 308 342 280V246C342 218 358 202 386 202H548C576 202 592 218 592 246V274C592 302 608 318 636 318H822C850 318 866 302 866 274V246C866 218 882 202 910 202H1060" fill="none" stroke="#d8dce6" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="0.52"/>
+    <path d="M126 324H298C326 324 342 308 342 280V246C342 218 358 202 386 202H548C576 202 592 218 592 246V274C592 302 608 318 636 318H822C850 318 866 302 866 274V246C866 218 882 202 910 202H1060" fill="none" stroke="url(#route)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <g filter="url(#node-shadow)">
+      <g transform="translate(342 264)">
+        <circle r="12" fill="#ffffff" stroke="#7272e8" stroke-width="2"/>
+        <circle r="3.5" fill="#7272e8"/>
+      </g>
+      <g transform="translate(592 260)">
+        <circle r="12" fill="#ffffff" stroke="#8298e8" stroke-width="2"/>
+        <circle r="3.5" fill="#8298e8"/>
+      </g>
+      <g transform="translate(866 260)">
+        <circle r="12" fill="#ffffff" stroke="#4ebaaa" stroke-width="2"/>
+        <circle r="3.5" fill="#4ebaaa"/>
+      </g>
+    </g>
+
+    <g font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="650" letter-spacing="2.4" fill="#566176">
+      <text x="316" y="292">IDEA</text>
+      <text x="555" y="232">SYSTEM</text>
+      <text x="844" y="292">SHIP</text>
+    </g>
+
+    <g opacity="0.9">
+      <rect x="172" y="350" width="128" height="1" fill="#aeb7c8"/>
+      <rect x="664" y="350" width="94" height="1" fill="#aeb7c8"/>
+      <circle cx="316" cy="350.5" r="2.5" fill="#f2afc4"/>
+      <circle cx="774" cy="350.5" r="2.5" fill="#eacb77"/>
+    </g>
+
+    <g filter="url(#soft-shadow)" fill="none" stroke="url(#monogram)" stroke-width="24" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M1162 390V140H1262C1322 140 1356 171 1356 220C1356 270 1322 300 1262 300H1162"/>
+      <path d="M1330 322L1390 404L1486 144"/>
+    </g>
+    <circle cx="1162" cy="390" r="6" fill="#7272e8"/>
+    <circle cx="1486" cy="144" r="6" fill="#4ebaaa"/>
+    <circle cx="1390" cy="404" r="4" fill="#eacb77"/>
+
+    <g font-family="IBM Plex Mono, ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="2.2" fill="#747f93">
+      <text x="1150" y="438">PUSHMITHA VIGNESWARAN</text>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="1598" height="518" rx="28" fill="none" stroke="#dfe3eb" stroke-width="2"/>
+</svg>

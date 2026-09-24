@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./assets/profile-hero-light.svg"
+    width="100%"
+    alt="Abstract light systems map representing Pushmitha Vigneswaran's interface-to-infrastructure engineering approach"
+  />
+</p>
+
 <div align="center">
 
 # Hi, I'm Pushmitha Vigneswaran
@@ -12,15 +20,15 @@ I am an Information Technology undergraduate at the **University of Moratuwa**, 
 
 </div>
 
----
+<p align="center">
+  <img src="./assets/system-route-divider.svg" width="100%" alt="" />
+</p>
 
 ## About me
 
-- 🎓 Reading for a **BSc (Hons) in Information Technology** at the University of Moratuwa.
-- 🔭 Building full-stack products and service-based systems with **React, TypeScript, Java, Spring Boot, Python, .NET, SQL, and Kafka**.
-- 🌱 Strengthening my skills in system design, application security, testing, CI/CD, and cloud deployment.
-- 🤝 Interested in software engineering internships, collaborative product development, and open-source work.
-- 💡 I enjoy connecting reliable backend systems with accessible, well-crafted interfaces.
+- Reading for a **BSc (Hons) in Information Technology** at the University of Moratuwa.
+- Building full-stack products and service-based systems with **React, TypeScript, Java, Spring Boot, Python, .NET, SQL, and Kafka**.
+- Interested in software engineering internships where I can connect reliable backend systems with accessible, well-crafted interfaces.
 
 ## Selected work
 
@@ -53,6 +61,10 @@ An e-commerce application connecting a React interface to a Spring Boot backend 
 - Implements core product CRUD flows across the frontend and backend.
 - Demonstrates API integration and persistent application data.
 
+<p align="center">
+  <img src="./assets/system-route-divider.svg" width="100%" alt="" />
+</p>
+
 ## Engineering toolkit
 
 | Area | Technologies |
@@ -77,7 +89,9 @@ An e-commerce application connecting a React interface to a Spring Boot backend 
 - Building stronger Spring Security, testing, system-design, and deployment skills.
 - Contributing to collaborative codebases through clear issues, pull requests, reviews, and documentation.
 
----
+<p align="center">
+  <img src="./assets/system-route-divider.svg" width="100%" alt="" />
+</p>
 
 <div align="center">
 
