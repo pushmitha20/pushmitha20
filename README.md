@@ -1,152 +1,90 @@
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7F00FF,00D4FF&height=250&section=header&text=Pushmitha&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20and%20Spring%20Boot&descAlignY=55&descAlign=50"
-    alt="Pushmitha Banner" 
-    width="100%"
-  />
-</div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+and+Spring+Boot+Backend;React+Frontend+Specialist;UI%2FUX+Enthusiast;Build+Break+Learn+Repeat"
-      alt="Typing SVG" 
-    />
-  </a>
-</div>
+# Hi, I'm Pushmitha Vigneswaran
 
-<div align="center">
-  <p>
-    <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://twitter.com/YOUR-TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-    <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="mailto:YOURMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://pushmitha20.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  </p>
+### Full-Stack & Backend Developer · Seeking Software Engineering Internships
+
+I am an Information Technology undergraduate at the **University of Moratuwa**, building thoughtful digital systems from interface to infrastructure.
+
+**Currently seeking software engineering internship opportunities.**
+
+[Portfolio](https://pushmitha-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/pushmitha-vigneswaran-979690301/) · [Email](mailto:vpushmitha20@gmail.com)
+
 </div>
 
 ---
 
-### 👩‍💻 About Me
+## About me
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <ul>
-        <li>🌱 Currently learning <strong>Advanced Spring Security and Next.js</strong></li>
-        <li>🎯 Building <strong>Planora</strong> – A Project Management System</li>
-        <li>🎨 Passionate about <strong>UI/UX Design in Figma and Photoshop</strong></li>
-        <li>💬 Ask me about <strong>Java, OOP, Spring Boot and Web Development</strong></li>
-        <li>⚡ Fun fact: <strong>I code best while combining logical backend with beautiful frontend designs</strong></li>
-      </ul>
-    </td>
-    <td width="40%">
-      <div align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="100%"/>
-      </div>
-    </td>
-  </tr>
-</table>
+- 🎓 Reading for a **BSc (Hons) in Information Technology** at the University of Moratuwa.
+- 🔭 Building full-stack products and service-based systems with **React, TypeScript, Java, Spring Boot, Python, .NET, SQL, and Kafka**.
+- 🌱 Strengthening my skills in system design, application security, testing, CI/CD, and cloud deployment.
+- 🤝 Interested in software engineering internships, collaborative product development, and open-source work.
+- 💡 I enjoy connecting reliable backend systems with accessible, well-crafted interfaces.
 
-<p align="center">
-  <strong>Motto:</strong> <em>"Build. Break. Learn. Repeat."</em>
-</p>
+## Selected work
 
----
+### [Fixflow](https://github.com/pushmitha20/Fixflow) — Service-based maintenance operations platform
 
-### 🛠️ Technical Stack
+An evolving full-stack system for coordinating maintenance requests, assignments, users, notifications, and operational analytics.
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><strong>Languages</strong></td>
-    <td align="center" width="25%"><strong>Frontend</strong></td>
-    <td align="center" width="25%"><strong>Backend</strong></td>
-    <td align="center" width="25%"><strong>Tools and Design</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" alt="Languages"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma&theme=dark" alt="Frontend"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,postman&theme=dark" alt="Backend"/>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" alt="Tools"/>
-    </td>
-  </tr>
-</table>
+`React` `TypeScript` `Python` `.NET` `Kafka` `REST APIs` `SQL`
 
----
+- Separates core workflows into focused services, including maintenance, assignments, users, notifications, analytics, and an API gateway.
+- Uses Kafka-based events to connect service workflows.
+- Includes automated tests across multiple backend services and a typed React frontend.
 
-### 🚀 Featured Projects
+### [Developer Portfolio](https://github.com/pushmitha20/pushmitha-portfolio) — Interactive engineering portfolio
 
-<table align="center" border="0">
-  <tr>
-    <td width="33%" align="center">
-      <strong>📊 Planora</strong> <br>
-      <em>Project Management System</em> <br><br>
-      🔧 Agile Scrum and Kanban<br>
-      💻 Spring Boot and React<br>
-      🗄️ MySQL and RESTful APIs
-    </td>
-    <td width="33%" align="center">
-      <strong>☕ Cafe Website</strong> <br>
-      <em>Responsive UI</em> <br><br>
-      🎨 HTML, CSS and JavaScript<br>
-      ✨ Animations and Modern Design<br>
-      📱 Mobile Responsive
-    </td>
-    <td width="33%" align="center">
-      <strong>🛒 React Cart</strong> <br>
-      <em>E-commerce Logic</em> <br><br>
-      🔄 State Management<br>
-      🧮 Calculations and Filters<br>
-      🎯 UI Components
-    </td>
-  </tr>
-</table>
+A responsive portfolio that presents my projects, technical journey, leadership, and engineering approach.
 
----
+`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` `Vercel`
 
-### 🐍 Contribution Snake
+- Built with reusable components, reduced-motion support, and responsive layouts.
+- Deployed on Vercel with a focused project and contact experience.
+- **[View the live portfolio →](https://pushmitha-portfolio.vercel.app)**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pushmitha20/pushmitha20/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+### [React + Spring Boot E-commerce](https://github.com/pushmitha20/ecommerce-react-springboot) — Full-stack learning project
 
----
+An e-commerce application connecting a React interface to a Spring Boot backend and an H2 database.
 
-### 📈 Activity Graph
+`React` `JavaScript` `Java` `Spring Boot` `REST APIs` `H2`
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pushmitha20&bg_color=0D1117&color=A970FF&line=A970FF&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
+- Implements core product CRUD flows across the frontend and backend.
+- Demonstrates API integration and persistent application data.
 
----
+## Engineering toolkit
 
-### 📊 GitHub Stats
+| Area | Technologies |
+|---|---|
+| **Languages** | Java, TypeScript, JavaScript, Python, C#, SQL, C |
+| **Frontend** | React, Next.js, Tailwind CSS, responsive UI |
+| **Backend** | Spring Boot, ASP.NET Core, Python APIs, REST API design |
+| **Data & messaging** | PostgreSQL, MySQL, H2, Supabase, Kafka |
+| **Delivery** | Git, GitHub, Docker, GitHub Actions, CI/CD, Vercel |
+| **Design** | Figma, accessible interfaces, reduced-motion experiences |
 
-<div align="center">
+## Leadership & community
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=pushmitha20&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</a>
+- **Batch Representative** — Faculty of Information Technology, University of Moratuwa, Level 1.
+- **Designing Lead** — IEEE WIE Futuro 4.0.
+- **Designing Member** — IEEE WIE, University of Moratuwa.
+- **Committee Support, OGV South** — AIESEC.
 
-</div>
+## Current focus
 
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=pushmitha20&label=Profile%20Views&color=A970FF&style=flat-square" alt="Profile Views" />
-</div>
+- Making **Fixflow** easier to run, test, and understand as a complete distributed system.
+- Building stronger Spring Security, testing, system-design, and deployment skills.
+- Contributing to collaborative codebases through clear issues, pull requests, reviews, and documentation.
 
 ---
 
 <div align="center">
-  <br/>
-  ✨ <em>Thanks for visiting! Let's build meaningful software together.</em> 🚀
-  <br/><br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=A970FF&center=true&vCenter=true&width=500&lines=Always+learning.+Always+growing.;Let's+connect+and+collaborate!" alt="Closing Typing SVG" />
+
+### Let's build something meaningful
+
+I am open to **software engineering internship opportunities** where I can contribute, learn from experienced engineers, and help ship useful products.
+
+[View my portfolio](https://pushmitha-portfolio.vercel.app) · [Connect on LinkedIn](https://www.linkedin.com/in/pushmitha-vigneswaran-979690301/) · [Send me an email](mailto:vpushmitha20@gmail.com)
+
 </div>
