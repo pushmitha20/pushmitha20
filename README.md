@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/profile-hero-architecture-mobile.svg" />
+    <source media="(max-width: 700px)" srcset="./assets/profile-hero-architecture-mobile.svg" />
     <img
       src="./assets/profile-hero-architecture-v2.svg"
       width="100%"
