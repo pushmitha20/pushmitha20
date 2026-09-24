@@ -1,10 +1,10 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 700px)" srcset="./assets/profile-hero-architecture-mobile.svg" />
+    <source media="(max-width: 700px)" srcset="./assets/profile-hero-minimal-mobile.svg" />
     <img
-      src="./assets/profile-hero-architecture-v2.svg"
+      src="./assets/profile-hero-minimal-v3.svg"
       width="100%"
-      alt="Pushmitha Vigneswaran's engineering map connecting Information Technology studies at the University of Moratuwa with Fixflow, a Next.js portfolio, a React and Spring Boot application, and a software engineering internship goal"
+      alt="Pushmitha Vigneswaran, Information Technology undergraduate at the University of Moratuwa, full-stack and backend developer seeking software engineering internships"
     />
   </picture>
 </p>

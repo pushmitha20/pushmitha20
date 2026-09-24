@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Pushmitha Vigneswaran</title>
+  <desc id="desc">A minimal mobile banner introducing Pushmitha Vigneswaran, an Information Technology undergraduate at the University of Moratuwa and a full-stack and backend developer seeking software engineering internships.</desc>
+
+  <rect x="2" y="2" width="796" height="516" rx="26" fill="#FCFAF6" stroke="#E2DED6" stroke-width="4"/>
+
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="42" y="42" width="70" height="70" rx="17" fill="#202B3B"/>
+    <text x="77" y="88" text-anchor="middle" font-size="28" font-weight="760" fill="#FCFAF6">PV</text>
+    <circle cx="100" cy="54" r="5" fill="#D98268"/>
+
+    <text x="138" y="64" font-size="18" font-weight="720" letter-spacing="2" fill="#6C63B8">INFORMATION TECHNOLOGY</text>
+    <text x="138" y="95" font-size="21" font-weight="560" fill="#687181">University of Moratuwa</text>
+
+    <text x="42" y="187" font-size="53" font-weight="770" letter-spacing="-1.2" fill="#202B3B">Pushmitha</text>
+    <text x="42" y="246" font-size="53" font-weight="770" letter-spacing="-1.2" fill="#202B3B">Vigneswaran</text>
+    <text x="44" y="294" font-size="28" font-weight="570" fill="#687181">Full-Stack &amp; Backend Developer</text>
+
+    <line x1="42" y1="336" x2="758" y2="336" stroke="#D7D2CA" stroke-width="2"/>
+    <line x1="42" y1="336" x2="300" y2="336" stroke="#6C63B8" stroke-width="4"/>
+    <line x1="300" y1="336" x2="470" y2="336" stroke="#4E7D66" stroke-width="4"/>
+    <line x1="470" y1="336" x2="540" y2="336" stroke="#D98268" stroke-width="4"/>
+
+    <text x="42" y="381" font-size="16" font-weight="720" letter-spacing="2.2" fill="#D98268">CURRENTLY OPEN TO</text>
+    <text x="42" y="418" font-size="27" font-weight="760" fill="#202B3B">SOFTWARE ENGINEERING INTERNSHIPS</text>
+
+    <text x="42" y="475" font-size="17" font-weight="700" letter-spacing="1.5" fill="#687181">JAVA · SPRING BOOT · REACT · TYPESCRIPT · PYTHON · SQL</text>
+  </g>
+</svg>

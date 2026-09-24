@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="440" viewBox="0 0 1600 440" role="img" aria-labelledby="title desc">
+  <title id="title">Pushmitha Vigneswaran</title>
+  <desc id="desc">A minimal editorial banner introducing Pushmitha Vigneswaran, an Information Technology undergraduate at the University of Moratuwa and a full-stack and backend developer seeking software engineering internships.</desc>
+
+  <rect x="2" y="2" width="1596" height="436" rx="26" fill="#FCFAF6" stroke="#E2DED6" stroke-width="4"/>
+
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="70" y="62" width="72" height="72" rx="18" fill="#202B3B"/>
+    <text x="106" y="109" text-anchor="middle" font-size="29" font-weight="760" fill="#FCFAF6">PV</text>
+    <circle cx="130" cy="75" r="5" fill="#D98268"/>
+
+    <text x="174" y="83" font-size="17" font-weight="720" letter-spacing="2.4" fill="#6C63B8">INFORMATION TECHNOLOGY</text>
+    <text x="174" y="113" font-size="20" font-weight="560" fill="#687181">University of Moratuwa · Colombo, Sri Lanka</text>
+
+    <text x="70" y="220" font-size="66" font-weight="770" letter-spacing="-1.8" fill="#202B3B">Pushmitha Vigneswaran</text>
+    <text x="73" y="270" font-size="29" font-weight="570" fill="#687181">Full-Stack &amp; Backend Developer</text>
+
+    <text x="1220" y="80" font-size="16" font-weight="720" letter-spacing="2.4" fill="#D98268">CURRENTLY</text>
+    <text x="1220" y="126" font-size="28" font-weight="760" fill="#202B3B">OPEN TO SOFTWARE</text>
+    <text x="1220" y="161" font-size="28" font-weight="760" fill="#202B3B">ENGINEERING</text>
+    <text x="1220" y="196" font-size="28" font-weight="760" fill="#202B3B">INTERNSHIPS</text>
+
+    <line x1="70" y1="324" x2="1530" y2="324" stroke="#D7D2CA" stroke-width="2"/>
+    <line x1="70" y1="324" x2="520" y2="324" stroke="#6C63B8" stroke-width="4"/>
+    <line x1="520" y1="324" x2="810" y2="324" stroke="#4E7D66" stroke-width="4"/>
+    <line x1="810" y1="324" x2="930" y2="324" stroke="#D98268" stroke-width="4"/>
+
+    <text x="70" y="373" font-size="18" font-weight="700" letter-spacing="2.1" fill="#687181">JAVA · SPRING BOOT · REACT · TYPESCRIPT · PYTHON · .NET · SQL · KAFKA</text>
+    <text x="1530" y="373" text-anchor="end" font-size="18" font-weight="700" letter-spacing="1.8" fill="#202B3B">INTERFACE → INFRASTRUCTURE</text>
+  </g>
+</svg>
